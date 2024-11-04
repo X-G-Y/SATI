@@ -4,11 +4,11 @@ Code for Semantic-Guided Multimodal Sentiment Decoding with Adversarial Temporal
 Our checkpints can be download from [here](https://drive.google.com/drive/folders/11umrB8wphhYgMyBPAU7q5MXQ1yOepd0s?usp=drive_link).
 
 ## **Data Download**
--Install [CMU Multimodal SDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK). Ensure, you can perform from mmsdk import mmdatasdk.
--Option 1: Download [pre-computed splits](https://drive.google.com/drive/folders/1IBwWNH0XjPnZWaAlP1U2tIJH6Rb3noMI) and place the contents inside datasets folder.
--Option 2: Re-create splits by downloading data from MMSDK. For this, simply run the code as detailed next.
+- Install [CMU Multimodal SDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK). Ensure, you can perform from mmsdk import mmdatasdk.
+- Option 1: Download [pre-computed splits](https://drive.google.com/drive/folders/1IBwWNH0XjPnZWaAlP1U2tIJH6Rb3noMI) and place the contents inside datasets folder.
+- Option 2: Re-create splits by downloading data from MMSDK. For this, simply run the code as detailed next.
 
 ## **Running the code**
--cd src
--Set sdk_dir to the path of CMU-MultimodalSDK.
--python train.py --data mosi. Replace mosi with mosei or ur_funny for other datasets.
+- cd src
+- Set sdk_dir to the path of CMU-MultimodalSDK.
+- python train.py --data mosi. Replace mosi with mosei or ur_funny for other datasets.
