@@ -10,5 +10,7 @@ Our checkpints can be download from [here](https://drive.google.com/drive/folder
 
 ## **Running the code**
 - cd src
+- Set word_emb_path in config.py to [glove file](http://nlp.stanford.edu/data/glove.840B.300d.zip) and [roberta](https://drive.google.com/file/d/1KsZGuAP_s68WyU3wOZ2hZ7vcf7HB0zj3/view?usp=drive_link) path.
 - Set sdk_dir to the path of CMU-MultimodalSDK.
 - python train.py --data mosi. Replace mosi with mosei or ur_funny for other datasets.
+
