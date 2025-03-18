@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 Code for Semantic-Guided Multimodal Sentiment Decoding with Adversarial Temporal-Invariant Learning  (SATI).  
 Due to the double-blind review, we will not be providing the checkpoint link at this time.
-<!-- Our checkpints can be download from [here](https://drive.google.com/drive/folders/11umrB8wphhYgMyBPAU7q5MXQ1yOepd0s?usp=drive_link).' -->
+Our checkpints can be download from [here](https://drive.google.com/drive/folders/11umrB8wphhYgMyBPAU7q5MXQ1yOepd0s?usp=drive_link).'
 
 ## **Data Download**
 - Install [CMU Multimodal SDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK). Ensure, you can perform from mmsdk import mmdatasdk.
